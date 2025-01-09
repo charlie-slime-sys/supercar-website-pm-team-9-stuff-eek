@@ -114,7 +114,6 @@ option {
     border-color: var(--black);
     border-style: solid;
     border-radius: 4px;
-    background-color: var(--off-white);
 }
 
 option:hover {
@@ -217,6 +216,10 @@ h3 {
     justify-content: center;
     color: black;
     flex-direction: column;
+}
+
+.featured-prod {
+    color: var(--black);
 }
 
 h4 {
@@ -775,12 +778,6 @@ p.overlay-bottom-2 {
 .featured-products p {
     font-size: 3vw;
 }
-
-section {
-   
-    background-color: #FAF9F6;
-}
-
 
 .flex {
     margin-bottom: 2rem;
