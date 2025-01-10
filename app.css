@@ -572,14 +572,9 @@ footer>section:nth-child(5)>img {
     margin-bottom: 1rem;
 }
 
-.footer-nav {
+.nav-footer {
     display: flex;
-    color: var(--white);
-    flex-direction: row;
-    justify-content: center;
-    width: 100%;
-    padding: 1vw;
-    align-items: center;
+    text-decoration: none;
 }
 
 /* footer end */
