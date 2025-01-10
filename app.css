@@ -320,7 +320,7 @@ h4>a:hover {
     width: calc(100% / 3);
     background-color: var(--white);
     margin: 1px;
-    margin-top: 20px;
+    margin-top: 53px;
     font-size: 25px;
     height: 700px;
     align-items: center;
@@ -328,9 +328,9 @@ h4>a:hover {
 
 .longer-third {
     width: calc(100% / 3);
-    background-color: var(--white);
     height: 1150px;
     align-items: center;
+    margin-top: 6px;
 }
 
 .one-half {
@@ -514,7 +514,7 @@ footer {
     width: 100%;
     padding: 2vw;
     align-items: center;
-    margin-top: 100%;
+    margin-top: -1px;
 }
 
 footer>section:nth-child(1) {
